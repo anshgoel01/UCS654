@@ -1,0 +1,5 @@
+Model,Accuracy,Time,Size,Memory
+DialoGPT,0.88,140,500,2.3
+BlenderBot,0.91,160,600,2.6
+GPT-2,0.85,110,350,1.9
+FLAN-T5,0.93,150,480,2.2
